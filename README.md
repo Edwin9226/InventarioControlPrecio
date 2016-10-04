@@ -20,6 +20,7 @@ DIRECTORY STRUCTURE
 -------------------
 
 ```
+prueba
 common
     config/              contains shared configurations
     mail/                contains view files for e-mails
